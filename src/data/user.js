@@ -3,7 +3,7 @@ const INFO = {
 		title: "Yuri Morkovnik",
 		name: "Yuri Morkovnik",
 		email: "yuriymork62@gmail.com",
-		logo: "../logo.png",
+		logo: "./logo.png",
 	},
 
 	socials: {
@@ -59,7 +59,7 @@ const INFO = {
 			title: "Dialog Router",
 			description:
 				"The React Dialog Router is a versatile component that simplifies the management of dialogs within your React application. It provides a context-based approach to open, close, and navigate between dialogs.",
-			logo: "../react-icon.png",
+			logo: "./react-icon.png",
 			linkText: "View Project",
 			link: "https://github.com/YuriyMorkovnik/react-dialog-router",
 		},
@@ -67,7 +67,7 @@ const INFO = {
 		{
 			title: "AWS Template for fast-track integrations",
 			description: "This repository serves as a template for creating integrations by setting up the configuration of a single JSON file. Ultimately, a cloud formation template with lambda functions gets created. It gets assembled using esbuild and deploy using serverless.",
-			logo: "../aws-icon.png",
+			logo: "./aws-icon.png",
 			linkText: "View Project",
 			link: "https://github.com/YuriyMorkovnik/aws-template-builder",
 		},
@@ -76,7 +76,7 @@ const INFO = {
 			title: "Utils",
 			description:
 				"A lightweight set of fast and useful utils without any dependencies. There are functions like asyncMap, mergeDeepRightAll, switchCase, matches, findBy and so on. These functions are produnction ready and used in my real projects",
-			logo: "../ts-icon.png",
+			logo: "./ts-icon.png",
 			linkText: "View Project",
 			link: "https://github.com/YuriyMorkovnik/utils",
 		}
