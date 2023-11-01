@@ -44,13 +44,9 @@ const Projects = () => {
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							Throughout my journey in the world of programming, I've conjured a diverse array of projects, each one a testament to the magical art of coding. These creations are not mere lines of code; they are spells of innovation and craftsmanship.
+							I've had more tech projects than I've had cups of coffee (okay, maybe not that many). But seriously, I've been around the block, from startups to consulting gigs, and I've even tried my hand at a cleaning app (no, I didn't mop the floors, I promise).
 
-							Behold, many of these magical projects are open-source, waiting for fellow wizards like you to explore and wield their power. As you delve into the enchanted source code, consider adding your incantations to further enhance their abilities.
-
-							Collaboration is the secret to our magical world's growth and mastery. If you possess insights or envision enhancements, don't hesitate to share your wizardry. The exchange of knowledge and ideas is the path to greater wisdom.
-
-							Join me in this mystical journey through the realms of programming, where spells become software, and innovation knows no bounds. Your talents and feedback are always welcome. Together, we shall unlock the secrets of the digital universe!
+							If you're curious to see some of my pet projects, just check out my website. It's like a gallery of my digital masterpieces, with a dash of my coding journey in every line. So, go ahead, take a peek
 						</div>
 
 						<div className="projects-list">

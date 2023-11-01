@@ -48,10 +48,12 @@ const About = () => {
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
 								</div>
-								{INFO.about.jobs?.map(({ title, description }) => (
+								{INFO.about.jobs?.map(({ title, description, link }) => (
 									<div key={title}>
 										<div className="subtitle bold">
-											{title}
+											<a style={{ textDecoration: 'none', color: 'inherit' }} href={link} target="_blank" rel="noreferrer">
+												{title}
+											</a>
 										</div>
 										<div className="subtitle about-subtitle">
 											{description}
